@@ -94,8 +94,8 @@
     <orderEntry type="library" exported="" name="appcompat-v7-22.1.1" level="project" />
     <orderEntry type="library" exported="" name="androidannotations-api-3.3.2" level="project" />
     <orderEntry type="library" exported="" name="1_androidannotations-api-3.3.2" level="project" />
-    <orderEntry type="library" exported="" name="Mutil" level="project" />
     <orderEntry type="library" exported="" name="afinal_0.5.1_bin" level="project" />
+    <orderEntry type="library" exported="" name="Mutil" level="project" />
     <orderEntry type="library" exported="" name="androidannotations-3.3.2" level="project" />
     <orderEntry type="library" exported="" name="support-v4-22.1.1" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-22.1.1" level="project" />
